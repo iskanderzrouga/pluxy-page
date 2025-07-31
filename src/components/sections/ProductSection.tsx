@@ -74,16 +74,16 @@ export function ProductSection() {
                 </div>
                 <div className="box-border hidden mt-6 md:block">
                   <div className="relative box-border shrink-0 list-none">
-                    <div className="box-border gap-x-3 flex gap-y-3 border-indigo-500 p-3 rounded-[18px] border-2 border-solid">
+                    <div className="box-border gap-x-3 flex gap-y-3 border-orange-500 p-3 rounded-[18px] border-2 border-solid">
                       <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/61.webp" alt="" sizes="120px" className="aspect-[auto_120_/_129] box-border h-fit max-w-20 min-h-0 min-w-0 align-bottom w-[120px] rounded-[18px] md:max-w-[120px] md:min-h-[auto] md:min-w-[auto]" />
                       <div className="box-border gap-x-3 flex basis-[0%] flex-col grow min-h-0 min-w-0 gap-y-3 md:min-h-[auto] md:min-w-[auto]">
                         <div className="items-center box-border flex justify-between min-h-0 min-w-0 md:min-h-[auto] md:min-w-[auto]">
                           <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/63.webp" alt="" sizes="90px" className="aspect-[auto_90_/_13] box-border max-w-[90px] min-h-0 min-w-0 align-bottom w-full md:min-h-[auto] md:min-w-[auto]" />
                           <div className="text-neutral-800 text-sm box-border leading-[17.5px] min-h-0 min-w-0 md:min-h-[auto] md:min-w-[auto]"></div>
                         </div>
-                        <h4 className="text-indigo-500 font-semibold box-border leading-5 min-h-0 min-w-0 md:min-h-[auto] md:min-w-[auto]">Smooth Skin, No Daily Struggle!</h4>
+                        <h4 className="text-orange-500 font-semibold box-border leading-5 min-h-0 min-w-0 md:min-h-[auto] md:min-w-[auto]">Smooth Skin, No Daily Struggle!</h4>
                         <div className="text-neutral-800 text-sm italic box-border leading-[17.5px] min-h-0 min-w-0 md:min-h-[auto] md:min-w-[auto]">
-                          "I’ve struggled with stubborn facial hair for years, but with Pluxy, I’m finally hair-free for weeks. No more daily plucking or worrying about stubble – just smooth skin and real peace of mind."
+                          "I've struggled with stubborn facial hair for years, but with Pluxy, I'm finally hair-free for weeks. No more daily plucking or worrying about stubble – just smooth skin and real peace of mind."
                         </div>
                         <div className="items-center box-border flex justify-between min-h-0 min-w-0 w-full md:min-h-[auto] md:min-w-[auto]">
                           <span className="text-neutral-800 text-sm font-semibold box-border block leading-[17.5px] min-h-0 min-w-0 md:min-h-[auto] md:min-w-[auto]">Helen T.</span>
@@ -100,7 +100,7 @@ export function ProductSection() {
               <div className="box-border">
                 <div className="items-start box-border flex justify-between max-w-[500px] w-full">
                   <h2 className="text-neutral-800 text-xl font-extrabold box-border tracking-[0.6px] leading-6 md:text-3xl md:tracking-[0.75px] md:leading-9">PLUXY - EPIL PRO 3.0</h2>
-                  <span className="text-white text-sm bg-indigo-500 box-border block shrink-0 tracking-[0.6px] leading-[17px] px-2.5 py-[5px] rounded-bl rounded-br rounded-tl rounded-tr md:px-[15px] md:py-[7px]">Almost Gone</span>
+                  <span className="text-white text-sm bg-orange-500 box-border block shrink-0 tracking-[0.6px] leading-[17px] px-2.5 py-[5px] rounded-bl rounded-br rounded-tl rounded-tr md:px-[15px] md:py-[7px]">Almost Gone</span>
                 </div>
                 <div className="items-center box-border gap-x-1 flex gap-y-1 mt-3">
                   <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/icon-20.svg" alt="Icon" className="box-border h-[19px] w-[118px]" />
@@ -108,10 +108,10 @@ export function ProductSection() {
                 </div>
                 <div className="items-center box-border gap-x-4 flex gap-y-4 mt-4">
                   <div className="relative box-border h-4 w-4">
-                    <div className="items-center bg-indigo-500 box-border grid h-4 justify-items-center w-4 rounded-full">
+                    <div className="items-center bg-orange-500 box-border grid h-4 justify-items-center w-4 rounded-full">
                       <div className="bg-white box-border h-2.5 w-2.5 rounded-full"></div>
                     </div>
-                    <div className="absolute bg-indigo-500 box-border h-2.5 w-2.5 m-auto rounded-full inset-0"></div>
+                    <div className="absolute bg-orange-500 box-border h-2.5 w-2.5 m-auto rounded-full inset-0"></div>
                   </div>
                   <p className="text-[13px] box-border tracking-[0.65px]">
                     <strong className="font-bold box-border">225 people</strong>are currently looking at this
@@ -143,18 +143,18 @@ export function ProductSection() {
                       </div>
                     </label>
                   </div>
-                  <div className="relative text-slate-400 bg-indigo-300 box-border border border-violet-400 rounded-lg border-solid">
+                  <div className="relative text-slate-400 bg-orange-200 box-border border border-orange-400 rounded-lg border-solid">
                     <input type="hidden" name="payFullPrice" value="$123.06" className="bg-transparent box-border hidden p-0" />
                     <input type="hidden" name="payPartPrice" value="$30.76" className="bg-transparent box-border hidden p-0" />
                     <div className="absolute aspect-square box-border w-16 overflow-hidden rounded-sm -left-2 -top-2">
-                      <div className="absolute bg-indigo-700 box-border h-2 w-2 right-0 top-0"></div>
-                      <div className="absolute bg-indigo-700 box-border h-2 w-2 left-0 bottom-0"></div>
-                      <div className="absolute text-white text-[8px] font-semibold bg-indigo-700 box-border tracking-[0.4px] leading-[9.6px] text-center uppercase -rotate-45 origin-[0%_100%] w-[141.42%] py-0.5 left-0 bottom-0">MOST <br className="box-border" />POPULAR</div>
+                      <div className="absolute bg-orange-700 box-border h-2 w-2 right-0 top-0"></div>
+                      <div className="absolute bg-orange-700 box-border h-2 w-2 left-0 bottom-0"></div>
+                      <div className="absolute text-white text-[8px] font-semibold bg-orange-700 box-border tracking-[0.4px] leading-[9.6px] text-center uppercase -rotate-45 origin-[0%_100%] w-[141.42%] py-0.5 left-0 bottom-0">MOST <br className="box-border" />POPULAR</div>
                     </div>
                     <label className="box-border">
                       <div className="relative items-center box-border gap-x-1 grid grid-cols-[20px_80px_auto_70px] gap-y-1 px-3 py-2 rounded-lg md:gap-x-4 md:grid-cols-[15px_100px_auto_88px] md:gap-y-4 md:px-[19px] md:py-4">
                         <div className="items-center bg-white box-border flex shrink-0 h-5 justify-center w-5 border border-violet-400 mr-1 rounded-full border-solid md:h-[25px] md:w-[25px] md:mr-2">
-                          <div className="bg-indigo-700 box-border h-2.5 w-2.5 rounded-full md:h-[15px] md:w-[15px]"></div>
+                          <div className="bg-orange-700 box-border h-2.5 w-2.5 rounded-full md:h-[15px] md:w-[15px]"></div>
                         </div>
                         <div className="box-border flex shrink-0 justify-center">
                           <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/54.avif" alt="" className="aspect-[auto_280_/_239] box-border h-16 max-w-full object-contain" />
@@ -182,7 +182,7 @@ export function ProductSection() {
                   <div className="box-border flex border border-gray-200 mt-1 rounded-lg border-solid">
                     <div className="box-border w-6/12 p-2 md:px-4 md:py-3">
                       <div className="box-border flex">
-                        <div className="box-border shrink-0 h-5 w-5 border-indigo-500 mr-2 mt-1 rounded-full border-[6px] border-solid"></div>
+                        <div className="box-border shrink-0 h-5 w-5 border-orange-500 mr-2 mt-1 rounded-full border-[6px] border-solid"></div>
                         <div className="box-border w-full">
                           <p className="text-black text-[15px] font-semibold box-border tracking-[0.75px] leading-[27px]">Pay in full</p>
                           <p className="text-black text-[15px] font-semibold box-border tracking-[0.75px] leading-[22.5px]">$123.06</p>
@@ -211,7 +211,7 @@ export function ProductSection() {
                     </div>
                     <div className="box-border w-6/12 border-gray-200 p-2 border-l border-solid md:px-4 md:py-3">
                       <div className="box-border flex">
-                        <div className="box-border shrink-0 h-5 w-5 border border-indigo-500 mr-2 mt-1 rounded-full border-solid"></div>
+                        <div className="box-border shrink-0 h-5 w-5 border border-orange-500 mr-2 mt-1 rounded-full border-solid"></div>
                         <div className="box-border w-full">
                           <p className="text-black text-[15px] font-semibold box-border tracking-[0.75px] leading-[27px]">Pay today only</p>
                           <p className="text-black text-[15px] font-semibold box-border tracking-[0.75px] leading-[22.5px]">$30.76</p>
@@ -244,7 +244,7 @@ export function ProductSection() {
                     <input type="hidden" name="utf8" value="✓" className="bg-transparent box-border hidden p-0" />
                     <input type="hidden" name="id" value="44515212853496" className="bg-transparent box-border hidden p-0" />
                     <div className="items-stretch box-border grid">
-                      <button type="submit" name="add" className="relative text-white text-base font-bold items-center bg-indigo-500 gap-x-2 block justify-center tracking-[1px] leading-6 gap-y-2 text-center uppercase w-full z-[1] border-indigo-500 overflow-hidden mt-5 px-5 py-[17px] rounded-full border-solid md:text-xl md:leading-7 md:w-auto md:px-6 md:py-5">
+                      <button type="submit" name="add" className="relative text-white text-base font-bold items-center bg-orange-500 gap-x-2 block justify-center tracking-[1px] leading-6 gap-y-2 text-center uppercase w-full z-[1] border-orange-500 overflow-hidden mt-5 px-5 py-[17px] rounded-full border-solid md:text-xl md:leading-7 md:w-auto md:px-6 md:py-5">
                         Add to cart
                         <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/icon-54.svg" alt="Icon" className="text-base box-border leading-6 w-[18px] md:text-xl md:leading-7" />
                       </button>
@@ -292,16 +292,16 @@ export function ProductSection() {
                 </div>
                 <div className="box-border block mt-6 md:hidden">
                   <div className="relative box-border shrink-0 list-none">
-                    <div className="box-border gap-x-3 flex gap-y-3 border-indigo-500 p-3 rounded-[18px] border-2 border-solid">
+                    <div className="box-border gap-x-3 flex gap-y-3 border-orange-500 p-3 rounded-[18px] border-2 border-solid">
                       <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/61.webp" alt="" sizes="120px" className="aspect-[auto_120_/_129] box-border h-fit max-w-20 min-h-[auto] min-w-[auto] align-bottom w-[120px] rounded-[18px] md:max-w-[120px] md:min-h-0 md:min-w-0" />
                       <div className="box-border gap-x-3 flex basis-[0%] flex-col grow min-h-[auto] min-w-[auto] gap-y-3 md:min-h-0 md:min-w-0">
                         <div className="items-center box-border flex justify-between min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-0">
                           <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/63.webp" alt="" sizes="90px" className="aspect-[auto_90_/_13] box-border max-w-[90px] min-h-[auto] min-w-[auto] align-bottom w-full md:min-h-0 md:min-w-0" />
                           <div className="text-neutral-800 text-sm box-border leading-[17.5px] min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-0"></div>
                         </div>
-                        <h4 className="text-indigo-500 font-semibold box-border leading-5 min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-0">Smooth Skin, No Daily Struggle!</h4>
+                        <h4 className="text-orange-500 font-semibold box-border leading-5 min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-0">Smooth Skin, No Daily Struggle!</h4>
                         <div className="text-neutral-800 text-sm italic box-border leading-[17.5px] min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-0">
-                          "I’ve struggled with stubborn facial hair for years, but with Pluxy, I’m finally hair-free for weeks. No more daily plucking or worrying about stubble – just smooth skin and real peace of mind."
+                          "I've struggled with stubborn facial hair for years, but with Pluxy, I'm finally hair-free for weeks. No more daily plucking or worrying about stubble – just smooth skin and real peace of mind."
                         </div>
                         <div className="items-center box-border flex justify-between min-h-[auto] min-w-[auto] w-full md:min-h-0 md:min-w-0">
                           <span className="text-neutral-800 text-sm font-semibold box-border block leading-[17.5px] min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-0">Helen T.</span>
