@@ -13,7 +13,7 @@ export function LowStockSection() {
             <p className="text-gray-950 text-lg box-border leading-[22.5px] md:text-[26px] md:leading-[32.5px]">This product has limited availability</p>
             <div className="items-center box-border gap-x-6 flex gap-y-6 md:gap-x-12 md:gap-y-12">
               <div className="bg-stone-300 box-border basis-[0%] grow h-[18px] rounded-[50px] md:h-[30px]">
-                <div className="bg-indigo-500 box-border h-[18px] w-[95%] rounded-[50px] md:h-[30px]"></div>
+                <div className="bg-orange-500 box-border h-[18px] w-[95%] rounded-[50px] md:h-[30px]"></div>
               </div>
               <p className="text-gray-950 text-xl font-bold box-border leading-[25px] md:text-[32px] md:leading-10">
                 <span className="text-xl box-border leading-[25px] md:text-[32px] md:leading-10">95</span>% Sold

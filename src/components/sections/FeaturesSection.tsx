@@ -8,7 +8,7 @@ export function FeaturesSection() {
       <div className="relative box-border px-4 py-12 md:px-12 md:py-28">
         <img alt="background image" src="https://c.animaapp.com/mdqy9698UVjprT/assets/188.png" className="absolute box-border h-full max-w-full w-full inset-0" />
         <div className="relative text-zinc-600 box-border tracking-[0.4px] leading-4 max-w-screen-xl mx-auto">
-          <h2 className="text-indigo-500 text-[26px] font-bold box-border leading-10 text-center mb-[30px] md:text-[40px] md:mb-[60px]">
+          <h2 className="text-orange-500 text-[26px] font-bold box-border leading-10 text-center mb-[30px] md:text-[40px] md:mb-[60px]">
             6 Reason Why Pluxy Is Perfect For You
           </h2>
           <div role="region" className="relative box-border pb-12 md:pb-0">
@@ -17,7 +17,7 @@ export function FeaturesSection() {
                 {productFeatures.map((feature, index) => (
                   <div key={feature.id} className="relative box-border shrink-0 list-none w-full mr-[15px] p-2 md:w-auto md:mr-0 md:pt-10">
                     <div className="bg-white shadow-[rgb(122,94,197)_7px_4px_4px_0px] box-border flex flex-col h-full rounded-[20px]">
-                      <div className="relative bg-indigo-500 box-border h-auto p-2.5 rounded-t-[20px] md:h-[50px]">
+                      <div className="relative bg-orange-500 box-border h-auto p-2.5 rounded-t-[20px] md:h-[50px]">
                         <div className="absolute box-border hidden transform-none left-2/4 bottom-0 md:block md:translate-x-[-50.0%]">
                           <div className="relative box-border">
                             <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/27.webp" alt="" className="box-border max-w-full align-bottom w-[100px]" />
@@ -26,7 +26,7 @@ export function FeaturesSection() {
                         </div>
                         <div className="items-center box-border gap-x-2.5 flex gap-y-2.5 md:hidden">
                           <div className="items-center bg-white box-border flex h-[38px] justify-center min-h-[auto] min-w-[38px] w-[38px] rounded-[50px] md:min-h-0">
-                            <span className="text-indigo-500 text-3xl font-black box-border block leading-[30px] min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-0">{index + 1}</span>
+                            <span className="text-orange-500 text-3xl font-black box-border block leading-[30px] min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-0">{index + 1}</span>
                           </div>
                           <h3 className="text-white text-xl font-bold box-border leading-[30px] min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-0">
                             {feature.title}
@@ -53,7 +53,7 @@ export function FeaturesSection() {
             </div>
           </div>
           <div className="box-border text-center mt-8 md:mt-12">
-            <a href="#products" className="relative text-white text-sm font-bold items-center bg-indigo-500 box-border gap-x-2 inline-flex justify-center tracking-[0.6px] leading-[22px] gap-y-2 uppercase w-full z-[1] border-indigo-500 overflow-hidden px-[15px] py-5 rounded-full border-2 border-solid md:text-xl md:leading-7 md:w-auto md:px-16">
+            <a href="#products" className="relative text-white text-sm font-bold items-center bg-orange-500 box-border gap-x-2 inline-flex justify-center tracking-[0.6px] leading-[22px] gap-y-2 uppercase w-full z-[1] border-orange-500 overflow-hidden px-[15px] py-5 rounded-full border-2 border-solid md:text-xl md:leading-7 md:w-auto md:px-16">
               I WANT EASY SMOOTH SKIN NOW
               <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/icon-8.svg" alt="Icon" className="text-sm box-border h-4 leading-[22px] md:text-xl md:h-[18px] md:leading-7" />
             </a>

@@ -4,7 +4,7 @@ export function PromiseSection() {
   return (
     <div className="box-border">
       <div className="bg-gray-300 box-border pt-10 md:pt-[74px]">
-        <h2 className="text-indigo-500 text-[26px] font-bold box-border leading-10 text-center mb-5 md:text-[40px]">Our Promise</h2>
+        <h2 className="text-orange-500 text-[26px] font-bold box-border leading-10 text-center mb-5 md:text-[40px]">Our Promise</h2>
         <div className="relative box-border h-full w-full before:accent-auto before:bg-[linear-gradient(to_top,rgb(255,255,255),rgba(255,255,255,0))] before:box-border before:text-neutral-800/90 before:block before:text-base before:not-italic before:normal-nums before:font-normal before:tracking-[normal] before:leading-6 before:list-outside before:list-disc before:absolute before:text-start before:indent-[0px] before:normal-case before:visible before:border-separate before:top-[90%] before:bottom-0 before:inset-x-0 before:font-inter">
           <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/34.webp" alt="" className="box-border hidden max-w-full min-h-[500px] object-cover w-full md:block" />
           <div className="static items-center box-border flex h-full justify-center w-full px-6 left-0 top-0 md:absolute">
@@ -155,6 +155,7 @@ export function PromiseSection() {
               <span className="box-border leading-6">20000+ Satisfied Customers</span>
             </div>
             <a href="#products" className="relative text-white text-sm font-bold items-center bg-indigo-500 box-border gap-x-2 inline-flex justify-center tracking-[0.6px] leading-[22px] gap-y-2 uppercase w-full z-[1] border-indigo-500 overflow-hidden px-[15px] py-5 rounded-full border-2 border-solid md:text-xl md:leading-7 md:w-auto md:px-16">
+            <a href="#products" className="relative text-white text-sm font-bold items-center bg-orange-500 box-border gap-x-2 inline-flex justify-center tracking-[0.6px] leading-[22px] gap-y-2 uppercase w-full z-[1] border-orange-500 overflow-hidden px-[15px] py-5 rounded-full border-2 border-solid md:text-xl md:leading-7 md:w-auto md:px-16">
               NO MORE SALON VISITS
               <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/icon-8.svg" alt="Icon" className="text-sm box-border h-4 leading-[22px] md:text-xl md:h-[18px] md:leading-7" />
             </a>

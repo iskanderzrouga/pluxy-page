@@ -43,7 +43,7 @@ export function HeroSection() {
                 <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/156.png" alt="" sizes="150px" className="aspect-[auto_150_/_134] box-border hidden max-w-full min-h-0 min-w-0 w-[150px] md:block md:min-h-[auto] md:min-w-[auto]" />
               </div>
               <div className="box-border max-w-[420px] w-full mx-auto md:mx-0">
-                <a href="#products" className="relative text-white text-base font-bold items-center bg-[linear-gradient(0deg,rgb(122,94,197)_0%,rgb(144,111,232)_60%,rgb(178,149,254)_100%)] box-border gap-x-2 inline-flex justify-center tracking-[0.6px] leading-[22px] gap-y-2 uppercase w-full z-[1] overflow-hidden px-[15px] py-5 rounded-full md:text-xl md:leading-7 md:w-fit md:px-16">
+                <a href="#products" className="relative text-white text-base font-bold items-center bg-[linear-gradient(0deg,rgb(234,88,12)_0%,rgb(249,115,22)_60%,rgb(251,146,60)_100%)] box-border gap-x-2 inline-flex justify-center tracking-[0.6px] leading-[22px] gap-y-2 uppercase w-full z-[1] overflow-hidden px-[15px] py-5 rounded-full md:text-xl md:leading-7 md:w-fit md:px-16">
                   GET SMOOTH SKIN NOW
                   <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/icon-5.svg" alt="Icon" className="text-base box-border h-[18px] leading-[22px] w-[18px] md:text-xl md:leading-7" />
                 </a>

@@ -22,11 +22,11 @@ export function ComparisonSection() {
                 <div className="relative box-border z-0 overflow-hidden">
                   <div className="relative box-border gap-x-[normal] flex grid-cols-none h-full gap-y-[normal] md:gap-x-5 md:grid md:grid-cols-[repeat(4,minmax(0px,1fr))] md:gap-y-5">
                     <div className="relative box-border shrink-0 list-none w-full mr-5 p-1 md:w-auto md:mr-0">
-                      <div className="shadow-[rgb(122,95,193)_4px_4px_4px_0px] box-border flex flex-col h-full border-indigo-500 rounded-[20px] border-2 border-solid">
+                      <div className="shadow-[rgb(234,88,12)_4px_4px_4px_0px] box-border flex flex-col h-full border-orange-500 rounded-[20px] border-2 border-solid">
                         <div className="box-border rounded-t-[20px]">
                           <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/41.webp" alt="" className="box-border max-w-full align-bottom w-full" />
                         </div>
-                        <div className="items-center bg-white box-border gap-x-2.5 flex basis-[0%] flex-col grow gap-y-2.5 text-center border-indigo-500 p-5 rounded-b-[20px] border-t-2 border-solid md:px-6">
+                        <div className="items-center bg-white box-border gap-x-2.5 flex basis-[0%] flex-col grow gap-y-2.5 text-center border-orange-500 p-5 rounded-b-[20px] border-t-2 border-solid md:px-6">
                           <h3 className="text-neutral-800 text-lg font-semibold box-border leading-[22.5px] md:text-xl md:leading-[25px]">Designed for Facial Hair</h3>
                           <div className="text-neutral-800 text-base box-border leading-5 md:text-lg md:leading-[22.5px]">
                             The Pluxy™ Epil Pro 3.0 has 17mm discs that can get to the thinnest and shortest hairs on your face without trouble.
@@ -35,11 +35,11 @@ export function ComparisonSection() {
                       </div>
                     </div>
                     <div className="relative box-border shrink-0 list-none w-full mr-5 p-1 md:w-auto md:mr-0">
-                      <div className="shadow-[rgb(122,95,193)_4px_4px_4px_0px] box-border flex flex-col h-full border-indigo-500 rounded-[20px] border-2 border-solid">
+                      <div className="shadow-[rgb(234,88,12)_4px_4px_4px_0px] box-border flex flex-col h-full border-orange-500 rounded-[20px] border-2 border-solid">
                         <div className="box-border rounded-t-[20px]">
                           <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/42.webp" alt="" className="box-border max-w-full align-bottom w-full" />
                         </div>
-                        <div className="items-center bg-white box-border gap-x-2.5 flex basis-[0%] flex-col grow gap-y-2.5 text-center border-indigo-500 p-5 rounded-b-[20px] border-t-2 border-solid md:px-6">
+                        <div className="items-center bg-white box-border gap-x-2.5 flex basis-[0%] flex-col grow gap-y-2.5 text-center border-orange-500 p-5 rounded-b-[20px] border-t-2 border-solid md:px-6">
                           <h3 className="text-neutral-800 text-lg font-semibold box-border leading-[22.5px] md:text-xl md:leading-[25px]">Silver Ion Tweezers</h3>
                           <div className="text-neutral-800 text-base box-border leading-5 md:text-lg md:leading-[22.5px]">
                             Hygienic & Safe: Uses medical-grade silver ions to prevent bacteria from entering sensitive pores post-epilation.
@@ -48,11 +48,11 @@ export function ComparisonSection() {
                       </div>
                     </div>
                     <div className="relative box-border shrink-0 list-none w-full mr-5 p-1 md:w-auto md:mr-0">
-                      <div className="shadow-[rgb(122,95,193)_4px_4px_4px_0px] box-border flex flex-col h-full border-indigo-500 rounded-[20px] border-2 border-solid">
+                      <div className="shadow-[rgb(234,88,12)_4px_4px_4px_0px] box-border flex flex-col h-full border-orange-500 rounded-[20px] border-2 border-solid">
                         <div className="box-border rounded-t-[20px]">
                           <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/43.webp" alt="" className="box-border max-w-full align-bottom w-full" />
                         </div>
-                        <div className="items-center bg-white box-border gap-x-2.5 flex basis-[0%] flex-col grow gap-y-2.5 text-center border-indigo-500 p-5 rounded-b-[20px] border-t-2 border-solid md:px-6">
+                        <div className="items-center bg-white box-border gap-x-2.5 flex basis-[0%] flex-col grow gap-y-2.5 text-center border-orange-500 p-5 rounded-b-[20px] border-t-2 border-solid md:px-6">
                           <h3 className="text-neutral-800 text-lg font-semibold box-border leading-[22.5px] md:text-xl md:leading-[25px]">Patented Glide Technology</h3>
                           <div className="text-neutral-800 text-base box-border leading-5 md:text-lg md:leading-[22.5px]">
                             Gentle & Effective: Glides smoothly over your skin, pulling hair without damage.
@@ -61,11 +61,11 @@ export function ComparisonSection() {
                       </div>
                     </div>
                     <div className="relative box-border shrink-0 list-none w-full mr-5 p-1 md:w-auto md:mr-0">
-                      <div className="shadow-[rgb(122,95,193)_4px_4px_4px_0px] box-border flex flex-col h-full border-indigo-500 rounded-[20px] border-2 border-solid">
+                      <div className="shadow-[rgb(234,88,12)_4px_4px_4px_0px] box-border flex flex-col h-full border-orange-500 rounded-[20px] border-2 border-solid">
                         <div className="box-border rounded-t-[20px]">
                           <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/44.webp" alt="" className="box-border max-w-full align-bottom w-full" />
                         </div>
-                        <div className="items-center bg-white box-border gap-x-2.5 flex basis-[0%] flex-col grow gap-y-2.5 text-center border-indigo-500 p-5 rounded-b-[20px] border-t-2 border-solid md:px-6">
+                        <div className="items-center bg-white box-border gap-x-2.5 flex basis-[0%] flex-col grow gap-y-2.5 text-center border-orange-500 p-5 rounded-b-[20px] border-t-2 border-solid md:px-6">
                           <h3 className="text-neutral-800 text-lg font-semibold box-border leading-[22.5px] md:text-xl md:leading-[25px]">Completely Water-Resistant</h3>
                           <div className="text-neutral-800 text-base box-border leading-5 md:text-lg md:leading-[22.5px]">
                             Versatile Use: Safe to use in the shower, allowing for easy cleaning, painless and convenient epilation.
@@ -79,7 +79,7 @@ export function ComparisonSection() {
             </div>
           </div>
           <div className="items-center box-border flex flex-col">
-            <a href="#products" className="relative text-white text-sm font-bold items-center bg-indigo-500 box-border gap-x-2 flex justify-center tracking-[0.6px] leading-[22px] gap-y-2 text-center uppercase w-full z-[1] border-indigo-500 overflow-hidden px-[15px] py-5 rounded-full border-2 border-solid md:text-xl md:leading-7 md:w-auto md:px-16">
+            <a href="#products" className="relative text-white text-sm font-bold items-center bg-orange-500 box-border gap-x-2 flex justify-center tracking-[0.6px] leading-[22px] gap-y-2 text-center uppercase w-full z-[1] border-orange-500 overflow-hidden px-[15px] py-5 rounded-full border-2 border-solid md:text-xl md:leading-7 md:w-auto md:px-16">
               I WANT FREEDOM FROM RAZOR AND WAX
               <img src="https://c.animaapp.com/mdqy9698UVjprT/assets/icon-5.svg" alt="Icon" className="text-sm box-border h-[18px] leading-[22px] w-[18px] md:text-xl md:leading-7" />
             </a>
